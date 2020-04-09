@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliSVG2XamlResources", "AliSVG2XamlResources\AliSVG2XamlResources.csproj", "{32BE887C-8128-4F07-827F-3F2943FAA753}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALiSVGConvert2XamlResource", "ALiSVGConvert2XamlResource\ALiSVGConvert2XamlResource.csproj", "{50992AEC-2A47-4B2A-93F6-62EEA43B8BAE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliSVG2Xaml", "AliSVG2Xaml\AliSVG2Xaml.csproj", "{4DB03A27-484B-4C7E-82EF-8DE2C447EB2E}"
 EndProject
 Global
@@ -15,14 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{32BE887C-8128-4F07-827F-3F2943FAA753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32BE887C-8128-4F07-827F-3F2943FAA753}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32BE887C-8128-4F07-827F-3F2943FAA753}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32BE887C-8128-4F07-827F-3F2943FAA753}.Release|Any CPU.Build.0 = Release|Any CPU
-		{50992AEC-2A47-4B2A-93F6-62EEA43B8BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50992AEC-2A47-4B2A-93F6-62EEA43B8BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50992AEC-2A47-4B2A-93F6-62EEA43B8BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50992AEC-2A47-4B2A-93F6-62EEA43B8BAE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4DB03A27-484B-4C7E-82EF-8DE2C447EB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4DB03A27-484B-4C7E-82EF-8DE2C447EB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DB03A27-484B-4C7E-82EF-8DE2C447EB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
